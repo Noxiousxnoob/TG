@@ -1,4 +1,4 @@
-import os, time, re
+pimport os, time, re
 
 id_pattern = re.compile(r'^.\d+$') 
 
@@ -13,8 +13,7 @@ class Config(object):
     FORCE_SUB) else None
    
     # database config
-    DB_URL  = os.environ.get("DB_URL", "mongodb+srv://nox:nox@nox.0erqdpv.mongodb.net/?retryWrites=true&w=majority
-    ")  # ⚠️ Required
+    DB_URL  = os.environ.get("DB_URL", "mongodb+srv://nox:nox@nox.0erqdpv.mongodb.net/?retryWrites=true&w=majorityl")  # ⚠️ Required
     DB_NAME  = os.environ.get("DB_NAME","SnowEncoderBot") 
 
     # Other Configs 
