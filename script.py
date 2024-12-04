@@ -44,7 +44,7 @@ Send me the correct ffmpeg code for more info.
 
 ◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="My Video" -metadata author="John Doe" -metadata:s:s title="Subtitle Title" -metadata:s:a title="Audio Title" -metadata:s:v title="Video Title" </code>
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @Snowball_Official
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @NoxBots
 """
 
     
@@ -62,16 +62,16 @@ Available commands:-
 ➜ To Set Thumbnail just send photo
 
 
-<b>⦿ Developer:</b> <a href=https://t.me/Snowball_Official>ѕησωвαℓℓ ❄️</a>
+<b>⦿ Developer:</b> <a href=https://t.me/NoxiousXpro>𝗡𝗼𝘅𝗶𝗼𝘂𝘀𝗫𝗽𝗿𝗼🇮🇳</a>
 """
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : @{}
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Snowball_Official>𝓢𝓝𝓞𝓦𝓑𝓐𝓛𝓛</a>
-├👑 Instagram : <a href=https://www.instagram.com/ritesh6_>C-Insta</a> 
-├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/+mCdsJ7mjeBEyZWQ1>K-Lᴀɴᴅ</a>
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/NoxiousXpro>𝗡𝗼𝘅𝗶𝗼𝘂𝘀𝗫𝗽𝗿𝗼🇮🇳</a>
+├👑 Instagram : <a href=https://www.instagram.com/Noxiousbgmi>C-Insta</a> 
+├☃️ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/+N74gtlbETCE5YzI1>K-Lᴀɴᴅ</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-├🌀 ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://dashboard.heroku.com>Heroku</a>
+├🌀 ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://t.me/+N74gtlbETCE5YzI1>Telegram</a>
 ╰───────────────⍟ """
