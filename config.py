@@ -1,4 +1,4 @@
-pimport os, time, re
+import os, time, re
 
 id_pattern = re.compile(r'^.\d+$') 
 
